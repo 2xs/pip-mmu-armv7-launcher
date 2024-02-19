@@ -1,0 +1,96 @@
+{
+    "@context": [
+        "https:\/\/doi.org\/doi:10.5063\/schema\/codemeta-2.0",
+        "http:\/\/schema.org"
+    ],
+    "@type": "SoftwareSourceCode",
+    "name": "pip-mmu-armv7-launcher",
+    "description": "This repository contains an example that illustrate the creation of a child partition and the transfer of execution flow from the root partition to the child partition for armv7 architectures.",
+    "dateCreated": "2020-04-21",
+    "datePublished": "2024-02-01",
+    "license": [
+        "CeCILL Free Software License Agreement v2.1"
+    ],
+    "url": "https:\/\/hal.science\/hal-04432849",
+    "identifier": [],
+    "applicationCategory": [
+        "info"
+    ],
+    "keywords": [
+        "Computer Science",
+        "Provable Security",
+        "Security",
+        "Formal Methods",
+        "Operating System"
+    ],
+    "institution": [
+        "Universit\u00e9 de Lille",
+        "CNRS"
+    ],
+    "codeRepository": "https:\/\/github.com\/2xs\/pip-mmu-x86-launcher,https:\/\/github.com\/2xs\/pip-mmu-armv7-launcher",
+    "relatedLink": [
+        "https:\/\/pip.univ-lille.fr\/",
+        "https:\/\/github.com\/2xs\/pipcore",
+        "https:\/\/github.com\/2xs\/dx",
+        "https:\/\/github.com\/2xs\/digger"
+    ],
+    "programmingLanguage": [
+        "C",
+        "Assembly",
+        "Makefile"
+    ],
+    "version": "1",
+    "softwareVersion": "1.0.0",
+    "dateModified": "2024-02-01",
+    "developmentStatus": "Actif",
+    "author": [
+        {
+            "@type": "Role",
+            "roleName": "aut",
+            "author": {
+                "@type": "Person",
+                "@id": null,
+                "givenName": "Damien",
+                "familyName": "Amara",
+                "affiliation": [
+                    {
+                        "@type": "Organization",
+                        "name": "CRIStAL"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "Role",
+            "roleName": "architecture",
+            "author": {
+                "@type": "Person",
+                "@id": null,
+                "givenName": "Gilles",
+                "familyName": "Grimaud",
+                "affiliation": [
+                    {
+                        "@type": "Organization",
+                        "name": "CRIStAL"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "Role",
+            "roleName": "aut",
+            "author": {
+                "@type": "Person",
+                "@id": null,
+                "givenName": "Florian",
+                "familyName": "Vanhems",
+                "affiliation": [
+                    {
+                        "@type": "Organization",
+                        "name": "CRIStAL"
+                    }
+                ]
+            }
+        }
+    ]
+}
