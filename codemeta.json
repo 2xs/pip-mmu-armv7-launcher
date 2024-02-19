@@ -27,7 +27,7 @@
         "Universit\u00e9 de Lille",
         "CNRS"
     ],
-    "codeRepository": "https:\/\/github.com\/2xs\/pip-mmu-x86-launcher,https:\/\/github.com\/2xs\/pip-mmu-armv7-launcher",
+    "codeRepository": "https:\/\/github.com\/2xs\/pip-mmu-armv7-launcher",
     "relatedLink": [
         "https:\/\/pip.univ-lille.fr\/",
         "https:\/\/github.com\/2xs\/pipcore",
