@@ -5,7 +5,7 @@
     "@type": "SoftwareSourceCode",
     "name": "pip-mmu-armv7-launcher",
     "description": "This repository contains an example that illustrate the creation of a child partition and the transfer of execution flow from the root partition to the child partition for armv7 architectures.",
-    "dateCreated": "2020-04-21",
+    "dateCreated": "2021-09-16",
     "datePublished": "2024-02-01",
     "license": [
         "https://spdx.org/licenses/CECILL-2.1"
